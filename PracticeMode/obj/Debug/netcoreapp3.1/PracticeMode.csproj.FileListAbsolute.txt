@@ -1,0 +1,13 @@
+C:\Users\Jhe Ro\OneDrive\Desktop\PracticeMode\bin\Debug\netcoreapp3.1\PracticeMode.exe
+C:\Users\Jhe Ro\OneDrive\Desktop\PracticeMode\bin\Debug\netcoreapp3.1\PracticeMode.deps.json
+C:\Users\Jhe Ro\OneDrive\Desktop\PracticeMode\bin\Debug\netcoreapp3.1\PracticeMode.runtimeconfig.json
+C:\Users\Jhe Ro\OneDrive\Desktop\PracticeMode\bin\Debug\netcoreapp3.1\PracticeMode.runtimeconfig.dev.json
+C:\Users\Jhe Ro\OneDrive\Desktop\PracticeMode\bin\Debug\netcoreapp3.1\PracticeMode.dll
+C:\Users\Jhe Ro\OneDrive\Desktop\PracticeMode\bin\Debug\netcoreapp3.1\PracticeMode.pdb
+C:\Users\Jhe Ro\OneDrive\Desktop\PracticeMode\obj\Debug\netcoreapp3.1\PracticeMode.csprojAssemblyReference.cache
+C:\Users\Jhe Ro\OneDrive\Desktop\PracticeMode\obj\Debug\netcoreapp3.1\PracticeMode.AssemblyInfoInputs.cache
+C:\Users\Jhe Ro\OneDrive\Desktop\PracticeMode\obj\Debug\netcoreapp3.1\PracticeMode.AssemblyInfo.cs
+C:\Users\Jhe Ro\OneDrive\Desktop\PracticeMode\obj\Debug\netcoreapp3.1\PracticeMode.csproj.CoreCompileInputs.cache
+C:\Users\Jhe Ro\OneDrive\Desktop\PracticeMode\obj\Debug\netcoreapp3.1\PracticeMode.dll
+C:\Users\Jhe Ro\OneDrive\Desktop\PracticeMode\obj\Debug\netcoreapp3.1\PracticeMode.pdb
+C:\Users\Jhe Ro\OneDrive\Desktop\PracticeMode\obj\Debug\netcoreapp3.1\PracticeMode.genruntimeconfig.cache
